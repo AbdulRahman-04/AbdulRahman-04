@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Abdul Rahman</h1>
+<h1 align="center">Hey devs🙌, I'm Syed Abdul Rahman</h1>
 <h3 align="center">An aspiring devoloper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 

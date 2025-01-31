@@ -34,28 +34,15 @@
 
 <hr/>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br><br>
-
-<hr>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=radical&hide_border=true" alt="GitHub Streak"><br>
-
-<hr>
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-
-</p>
-
-<hr>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRahman-04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=syedomer17&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AbdulRahman-04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<hr>
 
-### 👥 Let's Build Something Awesome Together!
 
 Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. I'm always looking for new challenges and exciting opportunities to work with like-minded individuals!
 

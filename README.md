@@ -10,8 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20views&color=0e75b6&style=flat" alt="syedomer17" /> </p>
 
 <hr />
--  📍 Based in Hyderabad, India <br>
-- 🌱 I’m currently exploring the MERN stack and honing my JavaScript skills. <br>
+-  📍 Hyderabad, India <br>
+- 🌱 I’m currently learning the MERN stack and honing my devolopment skills. <br>
 - 💬 Ask me about   Full-Stack Development. <br>
 - 📫 How to reach me abdulrahman.81869@gmail.com <br>
 - ⚡ Fun fact: "I'm passionate about solving real-world problems through innovative coding solutions." <br>

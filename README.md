@@ -20,7 +20,6 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/share/15dm4xpa4T/" target="blank"><img align="center" src= alt=height="30" /></a>
 <a href="https://www.instagram.com/rahmann.devv/profilecard/?igsh=bGxqaGcxOXZ1NXg2" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30" /></a>
 <a href="https://www.linkedin.com/in/Syed-Abdul-Rahman-b73501324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
 

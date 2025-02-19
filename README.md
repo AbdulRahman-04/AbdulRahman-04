@@ -29,7 +29,7 @@ onmouseout="this.style.transform='scale(1)'">
 ✔ **Based in:** Hyderabad, India  
 ✔ **Currently Learning:** MERN Stack, TypeScript, JavaScript  
 ✔ **Ask Me About:** AI, ML, Full-Stack Development  
-✔ **How to Reach Me:** [📧 Email Me](mailto:abdulrahman.81869@gmail.com)  
+✔ **How to Reach Me:** [📧 abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)  
 ✔ **Fun Fact:** I love solving real-world problems with code!  
 
 ---

@@ -24,8 +24,7 @@
 
 ## 📍 About Me  
 ✔ **Based in:** Hyderabad, India  
-✔ **Currently Learning:** MERN Stack, TypeScript, JavaScript  
-✔ **Ask Me About:** AI, ML, Full-Stack Development  
+✔ **Currently Learning:** Full Stack Devolopment and Devops. 
 ✔ **Reach Me At:** [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)  
 ✔ **Fun Fact:** I love solving real-world problems with code!  
 

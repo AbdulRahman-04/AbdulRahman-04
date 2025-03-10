@@ -8,7 +8,7 @@
 
 <p align="center">
   💡 Passionate about development and tech, diving deep into full-stack web development. <br> 
-  🚀 Currently exploring the MERN stack and mastering JavaScript. <br> 
+  🚀 Currently exploring the MERN stack and mastering it. <br> 
   🎯 Dedicated to solving real-world problems through code and innovation.
 </p>
 

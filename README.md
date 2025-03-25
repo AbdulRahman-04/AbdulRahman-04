@@ -1,15 +1,13 @@
 <h1 align="center">
-  <span title="Thanks for visiting!">Hi 👋, I'm Syed Abdul Rahman</span>
+  <span title="Thanks for visiting!">🚀 Hi, I'm <span style="color:#00E6FF">Syed Abdul Rahman</span></span>
 </h1>
 
 <h3 align="center">
- 🚀 Engineering Student | MERN Stack Developer | Full-Stack Web Developer
+  💻 Engineering Student | MERN Stack Developer | Full-Stack Web Developer
 </h3>
 
 <p align="center">
-  💡 Passionate about development and tech, diving deep into full-stack web development. <br> 
-  🚀 Currently exploring the MERN stack and mastering it. <br> 
-  🎯 Dedicated to solving real-world problems through code and innovation.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00E6FF&center=true&vCenter=true&width=435&lines=Passionate+Developer;MERN+Stack+Enthusiast;Love+Solving+Problems;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +22,7 @@
 
 ## 📍 About Me  
 ✔ **Located in:** Hyderabad, India  
-✔ **Currently Learning:** Full Stack Devolopment and Devops. 
+✔ **Currently Learning:** Full Stack Development and DevOps  
 ✔ **Reach Me At:** [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)  
 ✔ **Fact:** I love solving real-world problems with code!  
 
@@ -50,7 +48,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ### 🔥 Backend & Database  
@@ -73,7 +71,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 ---
@@ -91,15 +89,6 @@
 <p align="center">
   Let's collaborate on exciting projects, discuss ideas, and innovate together. 🚀 Feel free to reach out anytime!
 </p>
-
----
-
-## 💬 Ask Me Anything  
-💡 Have a question? Ask me about:  
-✔ **Development** 🖥  
-✔ **Coding Challenges** 🧠  
-✔ **Career Advice** 🎯  
-I'm happy to help! 😊
 
 ---
 

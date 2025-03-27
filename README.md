@@ -15,8 +15,6 @@
 - 💻 **Full-Stack Developer** (MERN).  
 - 🚀 Building cool projects with **React, Node.js & TypeScript**.  
 - 📚 Constantly learning and exploring new tech.  
-- 🔥 **Backend dev** for Netflix clone.  
-- 🌍 **Freelancer** at WebXpertz.  
 - ✉️ Reach me at: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 
 ---

@@ -14,20 +14,19 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" alt="Followers" />
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" title="Keep Coding!">
+  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" title="Keep Coding!">
 </p>
 
 ---
 
 ## 📍 About Me  
-✔ **Located in:** Hyderabad, India 🇮🇳  
-✔ **Currently Learning:** Full Stack Development & DevOps  
+✔ **Located in:** Hyderabad, India  
+✔ **Currently Learning:** Full Stack Development and DevOps  
 ✔ **Reach Me At:** [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)  
-✔ **Fun Fact:** I love solving real-world problems with code! 🧑‍💻  
+✔ **Fact:** I love solving real-world problems with code!  
 
 ---
 
@@ -59,7 +58,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
 ### ⚡ Programming Languages  
@@ -82,11 +80,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRahman-04&theme=dark&hide_border=false" alt="Streak Stats" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRahman-04&theme=darkhub&margin-w=10&margin-h=10&row=1&column=4" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulRahman-04&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FF6C37&border=FFFFFF" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=dark&hide_border=false&layout=compact"/>
 </p>
 
 ---

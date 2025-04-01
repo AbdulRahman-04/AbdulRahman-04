@@ -13,7 +13,7 @@
 ### 💻 **About Me**
 - 🎓 **Final Year ECE Student** at Deccan College of Engineering & Technology.  
 - 💻 **Full-Stack Developer** (MERN).  
-- 🚀 Building cool projects with **React, Node.js & TypeScript**.  
+- 🚀 Building cool projects with **MERN Stack & TypeScript**.  
 - 📚 Constantly learning and exploring new tech.  
 - ✉️ Reach me at: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 

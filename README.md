@@ -53,7 +53,7 @@
 ---
 
 ### 🎯 **Current Projects**
-- 🌟 **Netflix Clone:** Backend with TypeScript and Express.js.  
+- 🌟 **Netflix Clone:** Backend with TypeScript Node.js, Express.js and MongoDB.  
 - 🔥 **WebXpertz:** Full-stack freelance platform.  
 - ⚡ **MERN Projects:** Exploring real-world apps with React & Node.js.  
 

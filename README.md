@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Syed+Abdul+Rahman;MERN+Stack+Developer;Building+Scalable+Web+Solutions" alt="Syed Abdul Rahman | MERN Stack Developer">
 </h1>
 
----
-
-### 🐍 GitHub Contributions Snake
-![Snake animation](https://github.com/AbdulRahman-04/AbdulRahman-04/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 👨‍💻 **Professional Summary**
 - 🎓 Final-year **Electronics & Communication Engineering** student at Deccan College of Engineering & Technology.  

@@ -4,6 +4,11 @@
 
 ---
 
+### 🐍 GitHub Contributions Snake
+![Snake animation](https://github.com/AbdulRahman-04/AbdulRahman-04/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 👨‍💻 **Professional Summary**
 - 🎓 Final-year **Electronics & Communication Engineering** student at Deccan College of Engineering & Technology.  
 - 💼 **Full-Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).  

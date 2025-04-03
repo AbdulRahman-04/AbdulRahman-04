@@ -36,10 +36,7 @@
 
 2. **WebXpertz**  
    - Full-stack freelance platform built with **MERN stack**.  
-   - Includes real-time messaging, payment integration, and user dashboards.  
-
-3. **Portfolio Website**  
-   - Modern React.js portfolio with **responsive design and animations**.  
+   - Connects Devolopers with Clients and vice versa 
 
 ---
 

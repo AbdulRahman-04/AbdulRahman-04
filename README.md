@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Syed+Abdul+Rahman;MERN+Stack+Developer;Building+Scalable+Web+Solutions" alt="Syed Abdul Rahman | MERN Stack Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Syed+Abdul+Rahman;MERN+Stack+Developer;Building+Scalable+Web+Apps" alt="Syed Abdul Rahman | MERN Stack Developer">
 </h1>
 
 ### 👨‍💻 **Professional Summary**

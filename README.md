@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Syed+Abdul+Rahman;MERN+Stack+Developer;Building+Scalable+Web+Solutions" alt="Syed Abdul Rahman | MERN Stack Developer">
 </h1>
 
-
 ### 👨‍💻 **Professional Summary**
 - 🎓 Final-year **Electronics & Communication Engineering** student at Deccan College of Engineering & Technology.  
 - 💼 **Full-Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
@@ -13,7 +12,7 @@
 
 ### 🛠 **Technical Skills**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,git,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,linux,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -35,7 +34,7 @@
 
 2. **WebXpertz**  
    - Full-stack freelance platform built with **MERN stack**.  
-   - Connects Devolopers with Clients and vice versa 
+   - Connects Developers with Clients and vice versa.
 
 ---
 
@@ -56,7 +55,7 @@
 
 ### 📌 **Currently Learning**
 - **Advanced TypeScript** for scalable frontend architectures.  
-- **Advance Backend** for making high performing servers
+- **Advanced Backend** for making high performing servers.
 
 ---
 

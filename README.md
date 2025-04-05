@@ -4,7 +4,7 @@
 
 ### 👨‍💻 **Professional Summary**
 - 🎓 Final-year **Electronics & Communication Engineering** student at Deccan College of Engineering & Technology.  
-- 💼 **Full-Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
+- 💼 **Full-Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
 - 🔍 Passionate about building **efficient, scalable, and user-centric applications**.  
 - 📫 Contact me: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)  
 

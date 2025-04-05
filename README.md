@@ -54,9 +54,8 @@
 ---
 
 ### 📌 **Currently Learning**
-- **Advanced TypeScript** for scalable frontend architectures.  
 - **Advanced Backend** for making high performing servers.
-
+- **Advanced Frontend** for scalable UI/UX architectures.  
 ---
 
 ### 🎯 **Career Goals**

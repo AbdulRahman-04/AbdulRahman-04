@@ -12,8 +12,9 @@
 
 ### 🛠 **Technical Skills**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,nestjs,mysql,git,linux,vscode" alt="Tech Stack" />
 </p>
+
 
 ---
 

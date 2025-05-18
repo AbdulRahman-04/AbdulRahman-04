@@ -76,7 +76,7 @@
 ### 🎯 Career Goals
 
 - Contribute to **open-source projects**.
-- Master **Full stack Web Devolopment and Devops**.
+- Master **cloud technologies (AWS/Azure)**.
 - Build **high-impact solutions** for real-world problems.
 
 ---
@@ -87,5 +87,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing+Together!+🚀" />
 </p>

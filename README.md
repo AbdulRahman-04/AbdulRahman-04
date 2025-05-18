@@ -1,55 +1,44 @@
-<!-- NEW Animated Header -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=default&color=0:FF5733,100:900C3F&height=250&section=header&text=Syed%20Abdul%20Rahman&fontSize=50&animation=bounce" alt="Animated Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:000000&height=200&section=header&text=Syed%20Abdul%20Rahman&fontSize=40&animation=fadeIn" />
 </p>
 
-<!-- NEW Typing Effect -->
+<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=26&pause=1500&color=FF5733&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;Learning+Go+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;Learning+Go+🚀" />
 </p>
 
-<hr style="border:none; height:4px; background: linear-gradient(to right, #FF5733, #900C3F);" />
+---
 
-## 👨‍💻 Professional Summary
+### 👨‍💻 Professional Summary
 
 - 🎓 Final-year **Electronics & Communication Engineering** student at Deccan College of Engineering & Technology.
 - 💼 **Full-Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).
 - 🔍 Passionate about building **efficient, scalable, and user-centric applications**.
 - 📫 Contact me: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 
-<hr style="border:none; height:2px; background: linear-gradient(to right, #FF5733, #900C3F);" />
+---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,nestjs,mysql,git,linux,vscode,go" alt="Tech Stack" />
-</div>
+</p>
 
-<hr style="border:none; height:2px; background: linear-gradient(to right, #FF5733, #900C3F);" />
+---
 
-## 📈 GitHub Analytics
+### 📈 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
-<hr style="border:none; height:2px; background: linear-gradient(to right, #FF5733, #900C3F);" />
+---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
 1. **ToDo List (Backend)**
    - TypeScript-based backend with **Node.js, Express.js, and MongoDB**.
@@ -59,44 +48,44 @@
    - Full-stack freelance platform built with **MERN stack**.
    - Connects Developers with Clients and vice versa.
 
-<hr style="border:none; height:2px; background: linear-gradient(to right, #FF5733, #900C3F);" />
+---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/syed-abdul-rahman-643a282b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AbdulRahman-04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:abdulrahman.81869@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
-<hr style="border:none; height:2px; background: linear-gradient(to right, #FF5733, #900C3F);" />
+---
 
-## 📌 Currently Learning
+### 📌 Currently Learning
 
 - **Advanced Backend** for making high performing servers.
 - **Advanced Frontend** for scalable UI/UX architectures.
 
-<hr style="border:none; height:2px; background: linear-gradient(to right, #FF5733, #900C3F);" />
+---
 
-## 🎯 Career Goals
+### 🎯 Career Goals
 
 - Contribute to **open-source projects**.
 - Master **cloud technologies (AWS/Azure)**.
 - Build **high-impact solutions** for real-world problems.
 
-<hr style="border:none; height:2px; background: linear-gradient(to right, #FF5733, #900C3F);" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" alt="Followers" />
-</div>
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1500&color=FF5733&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Amazing+🚀" alt="Call to Action" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing+Together!+🚀" />
 </p>

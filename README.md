@@ -10,7 +10,7 @@
 
 ### 👨‍💻 **Professional Summary**
 - 🎓 Final-year **Electronics & Communication Engineering** student at Deccan College of Engineering & Technology  
-- 💼 **Full-Stack Web Developer** (MERN Stack) & exploring **Golang** 🐹  
+- 💼 **Full-Stack Web Developer** (MERN Stack) & exploring **Golang** 🔥  
 - 🔍 Passionate about **efficient, scalable, user-centric** applications  
 - 📫 Reach out: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)  
 

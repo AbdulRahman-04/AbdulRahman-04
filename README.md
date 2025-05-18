@@ -76,7 +76,7 @@
 ### 🎯 Career Goals
 
 - Contribute to **open-source projects**.
-- Master **cloud technologies (AWS/Azure)**.
+- Master **Full Stack Web Devolopment and Devops**.
 - Build **high-impact solutions** for real-world problems.
 
 ---

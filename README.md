@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=MERN/GoLang+Developer;Building+Scalable+Web+Apps;Learning+Go+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=MERN/GoLang+Developer;Building+Scalable+Web+Apps;Mastering+Go+using+gin🚀" />
 </p>
 
 ---

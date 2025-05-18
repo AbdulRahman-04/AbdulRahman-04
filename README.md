@@ -1,80 +1,105 @@
 <h1 align="center">
-  <!-- Typing animation, smaller size for a cleaner look -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00E6FF&center=true&vCenter=true&width=500&height=50&lines=Syed+Abdul+Rahman;MERN+Stack+Developer;Building+Scalable+Web+Apps" alt="Syed Abdul Rahman | MERN Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&height=60&lines=Syed+Abdul+Rahman;MERN+Stack+Developer;Building+Scalable+Web+Apps;Learning+Go+🚀" alt="Typing SVG" />
 </h1>
 
-<!-- Subtle animated wave divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaJoshi03/github-readme-typing/master/assets/wave.svg" alt="wave divider" width="100%" />
-</p>
-
-### 👨‍💻 **Professional Summary**
-- 🎓 Final-year **Electronics & Communication Engineering** student at Deccan College of Engineering & Technology  
-- 💼 **Full-Stack Web Developer** (MERN Stack) & exploring **Golang** 🔥  
-- 🔍 Passionate about **efficient, scalable, user-centric** applications  
-- 📫 Reach out: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)  
-
----
-
-### 🛠 **Technical Skills**
-<p align="center">
-  <!-- Static icons load faster but you can swap for animated SVGs if desired -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,nestjs,mysql,git,linux,go" alt="Tech Stack" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" />
 </p>
 
 ---
 
-### 📈 **GitHub Stats & Streak**
+<h2 align="center">👨‍💻 Professional Summary</h2>
+
+<div align="center">
+
+🎓 Final-year <b>Electronics & Communication Engineering</b> student at Deccan College of Engineering & Technology.  
+💼 <b>Full-Stack Web Developer</b> specializing in the <b>MERN stack</b> (MongoDB, Express.js, React, Node.js).  
+🔍 Passionate about building <b>efficient, scalable, and user-centric applications</b>.  
+📫 Contact me: <a href="mailto:abdulrahman.81869@gmail.com">abdulrahman.81869@gmail.com</a>  
+
+</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRahman-04&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,nestjs,mysql,git,linux,vscode,go" alt="Skills" />
 </p>
 
 ---
 
-### 🌟 **Featured Projects**
-1. **ToDo List (Backend)**  
-   - TypeScript backend with Node.js, Express.js & MongoDB  
-   - JWT authentication & RESTful API design  
+<h2 align="center">📈 GitHub Analytics</h2>
 
-2. **WebXpertz**  
-   - MERN-based freelance platform connecting developers & clients  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=tokyonight&layout=compact&hide_border=true&border_radius=10" width="45%" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 ---
 
-### 🤝 **Connect With Me**
+<h2 align="center">🌟 Featured Projects</h2>
+
+<p align="left">
+  🔹 <b>ToDo List (Backend)</b>  
+  • TypeScript-based backend with <b>Node.js, Express.js, and MongoDB</b>  
+  • Includes <b>JWT authentication</b> and RESTful API design  
+  <br/><br/>
+  🔹 <b>WebXpertz</b>  
+  • Full-stack freelance platform built with <b>MERN stack</b>  
+  • Connects <b>Developers</b> with <b>Clients</b> and vice versa  
+</p>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/syed-abdul-rahman-643a282b2/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/syed-abdul-rahman-643a282b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AbdulRahman-04" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/AbdulRahman-04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:abdulrahman.81869@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" />
+  <a href="mailto:abdulrahman.81869@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📌 **Currently Learning**
-- ⚙️ **Advanced Backend**: Node.js & Golang 🐹 for high‑performance servers  
-- 🎨 **Advanced Frontend**: Scalable UI/UX with React & TailwindCSS  
+<h2 align="center">📌 Currently Learning</h2>
+
+<div align="center">
+
+📦 Advanced Backend — building high performing servers  
+🎨 Advanced Frontend — scalable UI/UX architectures  
+
+</div>
 
 ---
 
-### 🎯 **Career Goals**
-- Contribute to **open-source projects**  
-- Master **Full Stack Web Devolopment & Devops**  
-- Build **real-world, high-impact** solutions  
+<h2 align="center">🎯 Career Goals</h2>
+
+<div align="center">
+
+✅ Contribute to <b>open-source projects</b>  
+☁️ Master <b>cloud technologies (AWS/Azure)</b>  
+🚀 Build <b>high-impact solutions</b> for real-world problems  
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile+Views&style=flat&color=0e75b6" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=GitHub+Followers&style=social" />
 </p>
 
+---
+
 <p align="center">
-  <i>Let's build something amazing together! ✨🚀</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing+Together!+🚀" alt="Let's Collaborate!" />
 </p>

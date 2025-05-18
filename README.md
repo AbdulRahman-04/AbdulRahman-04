@@ -19,7 +19,7 @@
 ### 🛠 **Technical Skills**
 <p align="center">
   <!-- Static icons load faster but you can swap for animated SVGs if desired -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,nestjs,mysql,git,linux,vscode,go" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,nestjs,mysql,git,linux,go" alt="Tech Stack" />
 </p>
 
 ---

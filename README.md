@@ -65,7 +65,7 @@
 
 ### 🎯 **Career Goals**
 - Contribute to **open-source projects**  
-- Master **AWS & Azure**  
+- Master **Full Stack Web Devolopment & Devops**  
 - Build **real-world, high-impact** solutions  
 
 ---

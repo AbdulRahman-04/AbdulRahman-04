@@ -1,33 +1,45 @@
-<!-- Animated Header -->
+<!-- 🌊 Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:000000&height=200&section=header&text=Syed%20Abdul%20Rahman&fontSize=40&animation=fadeIn" />
 </p>
 
-<!-- Typing Effect -->
+<!-- 🧠 Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=MERN/GoLang+Developer;Building+Scalable+Web+Apps;+Passionate+Devoloper" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=MERN/GoLang+Developer;Building+Scalable+Web+Apps;Always+Learning+and+Improving" />
 </p>
 
 ---
 
-### 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-- 🎓 Final-year **Electronics & Communication Engineering** student at Deccan College of Engineering & Technology.
-- 💼 **Full-Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).
-- 🔍 Passionate about building **efficient, scalable, and user-centric applications**.
-- 📫 Contact me: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
+- 🎓 Final-year **Electronics & Communication Engineering** student at **Deccan College of Engineering & Technology**.
+- 💻 Passionate **Full Stack Web Developer** — currently building scalable web apps using the **MERN stack** and **GoLang**.
+- ⚙️ Enjoys clean code, strong backend architectures, and seamless user experiences.
+- 📫 Reach out: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,nestjs,git,linux,go" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,nestjs,git,linux,go" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics
+## 🚀 Featured Projects
+
+🔹 **ToDo List Backend**  
+&emsp;🛠️ Built using **Node.js + Express + TypeScript**  
+&emsp;🔐 Features: JWT Auth, RESTful APIs, MongoDB, Error Handling  
+
+🔹 **WebXpertz Freelance Platform**  
+&emsp;🌐 Full-stack MERN project connecting **Clients ↔️ Freelancers**  
+&emsp;⚡ Role-based auth, scalable design, clean frontend  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -38,19 +50,22 @@
 
 ---
 
-### 🌟 Featured Projects
+## 🌱 Currently Learning
 
-1. **ToDo List (Backend)**
-   - TypeScript-based backend with **Node.js, Express.js, and MongoDB**.
-   - Features JWT authentication and RESTful API design.
-
-2. **WebXpertz**
-   - Full-stack freelance platform built with **MERN stack**.
-   - Connects Developers with Clients and vice versa.
+- Advanced Backend: GoLang, Clean Architecture, Caching, Performance Optimizations  
+- Advanced Frontend: Component-driven design, React Ecosystem, UI Architecture  
 
 ---
 
-### 🤝 Connect With Me
+## 🎯 Career Goals
+
+- 🌍 Contribute to meaningful **open-source projects**
+- 🧠 Master **Full Stack Development + DevOps**
+- 🛠️ Build impactful tools for **real-world problems**
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-abdul-rahman-643a282b2/" target="_blank">
@@ -66,26 +81,14 @@
 
 ---
 
-### 📌 Currently Learning
-
-- **Advanced Backend** for making high performing servers.
-- **Advanced Frontend** for scalable UI/UX architectures.
-
----
-
-### 🎯 Career Goals
-
-- Contribute to **open-source projects**.
-- Master **Full Stack Web Devolopment and Devops**.
-- Build **high-impact solutions** for real-world problems.
-
----
+## 🔍 Visitor Insights
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" />
 </p>
 
+<!-- Final Line -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing++🚀" />
 </p>

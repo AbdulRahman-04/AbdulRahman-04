@@ -53,15 +53,14 @@
 ## 🌱 Currently Learning
 
 - Advanced Backend: GoLang, Clean Architecture, Caching, Performance Optimizations  
-- Advanced Frontend: Component-driven design, React Ecosystem, UI Architecture  
+- Advanced Frontend: Component-driven design, React Ecosystem, UI Architecture
 
 ---
 
 ## 🎯 Career Goals
 
-- 🌍 Contribute to meaningful **open-source projects**
 - 🧠 Master **Full Stack Development + DevOps**
-- 🛠️ Build impactful tools for **real-world problems**
+- 🛠️ Build impactful tools and solve **real-world problems**
 
 ---
 

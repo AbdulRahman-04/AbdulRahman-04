@@ -1,93 +1,83 @@
-<!-- 🌊 Animated Header -->
+<!-- 🌌 Animated Starry Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:000000&height=200&section=header&text=Syed%20Abdul%20Rahman&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=star&color=0:00E6FF,100:000000&height=200&section=header&text=Syed%20Abdul%20Rahman&fontSize=40&animation=twinkling" alt="Header Animation" />
 </p>
 
-<!-- 🧠 Typing Effect -->
+<!-- 🤖 Typing Effect Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=MERN/GoLang+Developer;Building+Scalable+Web+Apps;Always+Learning+and+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=MERN/GoLang+Developer;Building+Scalable+Web+Apps;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 Final-year **Electronics & Communication Engineering** student at **Deccan College of Engineering & Technology**.
-- 💻 Passionate **Full Stack Web Developer** — currently building scalable web apps using the **MERN stack** and **GoLang**.
-- ⚙️ Enjoys clean code, strong backend architectures, and seamless user experiences.
-- 📫 Reach out: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
+- 🎓 Final-year **Electronics & Communication Engineering** student @ **Deccan College of Engineering & Technology**  
+- 💼 Passionate Full‑Stack Developer (MERN & Go) building performant, scalable web apps  
+- ⚙️ Obsessed with clean code, robust backend architectures & smooth UX  
+- 📫 Reach me: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,nestjs,git,linux,go" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,nestjs,git,linux,go&theme=light" alt="Tech Icons" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **ToDo List Backend**  
-&emsp;🛠️ Built using **Node.js + Express + TypeScript**  
-&emsp;🔐 Features: JWT Auth, RESTful APIs, MongoDB, Error Handling  
-
-🔹 **WebXpertz Freelance Platform**  
-&emsp;🌐 Full-stack MERN project connecting **Clients ↔️ Freelancers**  
-&emsp;⚡ Role-based auth, scalable design, clean frontend  
+| Project                       | Description                                      | Tech                        |
+| ----------------------------- | ------------------------------------------------ | --------------------------- |
+| **ToDo API**                  | RESTful API with JWT auth, error handling, Mongo | Node.js · Express · TypeScript |
+| **WebXpertz Platform**        | Connects clients & freelancers; role‑based auth  | React · Node.js · MongoDB   |
+| **CLI Task Manager**          | Terminal‑based ToDo manager                      | Node.js · Inquirer.js       |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Backend: GoLang, Clean Architecture, Caching, Performance Optimizations  
-- Advanced Frontend: Component-driven design, React Ecosystem, UI Architecture
+- Advanced GoLang: Clean Architecture, Caching, Performance  
+- Frontend Patterns: Component‑Driven Design & UI Architecture  
 
 ---
 
-## 🎯 Career Goals
-
-- 🧠 Master **Full Stack Development + DevOps**
-- 🛠️ Build impactful tools and solve **real-world problems**
-
----
-
-## 🤝 Let's Connect
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-abdul-rahman-643a282b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AbdulRahman-04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:abdulrahman.81869@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 🔍 Visitor Insights
+## 🔍 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" alt="Followers" />
 </p>
 
-<!-- Final Line -->
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing++🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=5AFFDF&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+🚀" alt="Final Typing" />
 </p>

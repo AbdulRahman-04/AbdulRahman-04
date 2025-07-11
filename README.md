@@ -1,76 +1,93 @@
-<!-- 🎖️ 3D Plastic Header Badge -->
+<!-- 🌊 Animated Header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Syed%20Abdul%20Rahman-000?style=plastic&logo=github&logoColor=white" alt="3D Header Badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:000000&height=200&section=header&text=Syed%20Abdul%20Rahman&fontSize=40&animation=fadeIn" />
+</p>
+
+<!-- 🧠 Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=MERN/GoLang+Developer;Building+Scalable+Web+Apps;Always+Learning+and+Improving" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full-Stack%20Dev-00E6FF?style=plastic" alt="Full-Stack Dev" />
-  <img src="https://img.shields.io/badge/MERN%20|%20GoLang-FFCC00?style=plastic" alt="MERN | GoLang" />
-  <img src="https://img.shields.io/badge/Always-Learning-3DD4C4?style=plastic" alt="Always Learning" />
-</p>
+## 👨‍💻 About Me
+
+- 🎓 Final-year **Electronics & Communication Engineering** student at **Deccan College of Engineering & Technology**.
+- 💻 Passionate **Full Stack Web Developer** — currently building scalable web apps using the **MERN stack** and **GoLang**.
+- ⚙️ Enjoys clean code, strong backend architectures, and seamless user experiences.
+- 📫 Reach out: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 
 ---
 
-## 🔹 About Me
-
-- 🎓 Final-year **Electronics & Communication Engineering** @ Deccan College
-- 💻 Building **MERN & GoLang** applications with a focus on performance
-- 🛠️ Advocate of clean, modular code & intuitive UX
-- 📫 Reach me: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
-
----
-
-## 💼 Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,go&theme=light" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,nestjs,git,linux,go" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ToDo_API-Node.js-green?style=plastic" alt="ToDo API" /><br>
-      JWT · MongoDB · TS
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/WebXpertz-React-blue?style=plastic" alt="WebXpertz" /><br>
-      MERN · Role-Based Auth
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CLI_Tasker-Node-yellow?style=plastic" alt="CLI Tasker" /><br>
-      Inquirer · Scripts
-    </td>
-  </tr>
-</table>
+🔹 **ToDo List Backend**  
+&emsp;🛠️ Built using **Node.js + Express + TypeScript**  
+&emsp;🔐 Features: JWT Auth, RESTful APIs, MongoDB, Error Handling  
+
+🔹 **WebXpertz Freelance Platform**  
+&emsp;🌐 Full-stack MERN project connecting **Clients ↔️ Freelancers**  
+&emsp;⚡ Role-based auth, scalable design, clean frontend  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=light&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&layout=compact&theme=light" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- **GoLang**: Clean Architecture, Caching, Concurrency
-- **React**: Component Patterns & Performance
+- Advanced Backend: GoLang, Clean Architecture, Caching, Performance Optimizations  
+- Advanced Frontend: Component-driven design, React Ecosystem, UI Architecture
 
 ---
 
-## 📫 Connect
+## 🎯 Career Goals
+
+- 🧠 Master **Full Stack Development + DevOps**
+- 🛠️ Build impactful tools and solve **real-world problems**
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/syed-abdul-rahman-643a282b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/AbdulRahman-04"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github" alt="GitHub" /></a>
-  <a href="mailto:abdulrahman.81869@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/syed-abdul-rahman-643a282b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbdulRahman-04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:abdulrahman.81869@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔍 Visitor Insights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" />
+</p>
+
+<!-- Final Line -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing++🚀" />
 </p>

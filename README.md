@@ -5,7 +5,7 @@
 
 <!-- 🧠 Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=MERN/GoLang+Developer;Building+Scalable+Web+Apps;Always+Learning+and+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=GoLang%2FMERN+Stack+Developer;Building+Full-stack+Projects;Learning+Relentlessly+🚀" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final-year **Electronics & Communication Engineering** student at **Deccan College of Engineering & Technology**.
-- 💻 Passionate **Full Stack Web Developer** — currently building scalable web apps using the **MERN stack** and **GoLang**.
-- ⚙️ Enjoys clean code, strong backend architectures, and seamless user experiences.
+- 💻 Passionate **Full Stack Web Developer** — currently building scalable apps with **MERN** & **GoLang (Gin)**.
+- 🛠️ Strong believer in clean architecture, robust APIs, and user-first design.
 - 📫 Reach out: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 
 ---
@@ -22,20 +22,24 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,nestjs,git,linux,go,gin" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,nestjs,git,linux,go,gin" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **ToDo List Backend**  
-&emsp;🛠️ Built using **Node.js + Express + TypeScript**  
-&emsp;🔐 Features: JWT Auth, RESTful APIs, MongoDB, Error Handling  
+### 📌 Event Management App
+> 🔒 Role-based (Users/Admins), Full CRUD, Email OTP Verification  
+> 🧱 Built with **GoLang (Gin)** + MongoDB + JWT
 
-🔹 **WebXpertz Freelance Platform**  
-&emsp;🌐 Full-stack MERN project connecting **Clients ↔️ Freelancers**  
-&emsp;⚡ Role-based auth, scalable design, clean frontend  
+### 📌 Snap Backend
+> 📷 Snapchat-inspired story-based backend  
+> 💡 Designed for speed and modularity using Go + MongoDB
+
+### 📌 WebXpertz Freelance Platform
+> 🤝 A MERN stack platform connecting **clients ↔️ freelancers**  
+> ✅ JWT Auth, Scalable APIs, Clean UI, Password Reset & more
 
 ---
 
@@ -52,15 +56,16 @@
 
 ## 🌱 Currently Learning
 
-- Advanced Backend: GoLang, Clean Architecture, Caching, Performance Optimizations  
-- Advanced Frontend: Component-driven design, React Ecosystem, UI Architecture
+- 🔁 Advanced Backend Patterns: Clean Architecture, Logging, Rate Limiting, OAuth
+- ⚛️ Frontend Skills: React.js, Tailwind, Component-Driven Design, API integration
 
 ---
 
 ## 🎯 Career Goals
 
-- 🧠 Master **Full Stack Development + DevOps**
-- 🛠️ Build impactful tools and solve **real-world problems**
+- 🧠 Master **Full Stack + DevOps**
+- 📈 Work on scalable & impactful real-world solutions
+- 🚀 Contribute to Open Source & Developer Communities
 
 ---
 
@@ -89,5 +94,5 @@
 
 <!-- Final Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing++🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=Let’s+Build+Something+Great+Together+💻🚀" />
 </p>

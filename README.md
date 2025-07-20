@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final-year **Electronics & Communication Engineering** student at **Deccan College of Engineering & Technology**.
-- 💻 Passionate **Full Stack Web Developer** — currently building scalable apps with **MERN** & **GoLang (Gin)**.
+- 💻 Passionate **Full Stack Web Developer** — currently building scalable apps with **MERN** & **GoLang (Gin)**
 - 🛠️ Strong believer in clean architecture, robust APIs, and user-first design.
 - 📫 Reach out: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 

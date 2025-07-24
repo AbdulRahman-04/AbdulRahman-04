@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,nestjs,git,linux,go,gin" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,express,mongodb,nestjs,git,linux,go,gin" alt="Tech Stack" />
 </p>
 
 ---

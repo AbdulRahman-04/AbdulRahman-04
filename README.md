@@ -56,8 +56,7 @@
 
 ## 🌱 Currently Learning
 
-- 🔁 Advanced Backend Patterns: Clean Architecture, Logging, Rate Limiting, OAuth
-- ⚛️ Frontend Skills: React.js, Tailwind, Component-Driven Design, API integration
+- ⚛️ Frontend Skills: React.js, Shadcn, Component-Driven Design, API integration
 
 ---
 

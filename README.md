@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:000000&height=200&section=header&text=Syed%20Abdul%20Rahman&fontSize=40&animation=fadeIn" />
 </p>
 
-<!-- 🧠 Typing Effect -->
+<!-- 🧠 Typing Effect --> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Building+Full-stack+Projects;Learning+Relentlessly+🚀" />
 </p>

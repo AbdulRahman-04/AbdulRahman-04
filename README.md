@@ -1,97 +1,102 @@
-<!-- 🌊 Animated Header -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:000000&height=200&section=header&text=Syed%20Abdul%20Rahman&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:000000&height=200&section=header&text=Syed%20Abdul%20Rahman&fontSize=40&animation=fadeIn" alt="Syed Abdul Rahman" />
 </p>
 
-<!-- 🧠 Typing Effect --> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Building+Backend+Projects;Learning+Relentlessly+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Backend+Architect+|+GoLang+&+MERN;Clean+Code+Enthusiast;Building+Scalable+Backends+🚀" alt="Typing Effect" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hi there!
 
-- 🎓 Final-year **Electronics & Communication Engineering** student at **Deccan College of Engineering & Technology**.
-- 💻 Passionate **Full Stack Web Developer** — currently building scalable apps with **MERN** & **GoLang (Gin)**
-- 🛠️ Strong believer in clean architecture, robust APIs, and user-first design.
-- 📫 Reach out: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
+I’m Syed Abdul Rahman, a final-year Electronics & Communication undergrad turned Backend Developer. I craft robust APIs, optimize performance to the millisecond, and ensure bulletproof security.
+
+Beyond code, you’ll find me lifting at the gym, chasing mental peace, and pushing limits—both in tech and life.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,express,mongodb,nestjs,git,linux,go,gin" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,gin,nodejs,express,mongodb,redis,html,css,js,ts,react,tailwind,git,docker,linux" alt="Tech Icons" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 Event Management App
-> 🔒 Role-based (Users/Admins), Full CRUD, Email OTP Verification  
-> 🧱 Built with **GoLang (Gin)** + MongoDB + JWT
+<details>
+<summary><strong>Event Management App</strong> (Go · Gin · MongoDB · JWT)</summary>
 
-### 📌 Snap Backend
-> 📷 Snapchat-inspired story-based backend  
-> 💡 Designed for speed and modularity using Go + MongoDB
+- Role-based access: Admin & Users  
+- Full CRUD operations & email OTP verification  
+- Redis caching for lightning-fast reads  
+- Clean architecture & layered services  
 
-### 📌 WebXpertz Freelance Platform
-> 🤝 A MERN stack platform connecting **clients ↔️ freelancers**  
-> ✅ JWT Auth, Scalable APIs, Clean UI, Password Reset & more
+🔗 https://github.com/AbdulRahman-04/event-management-gin  
+</details>
+
+<details>
+<summary><strong>Snap Backend</strong> (Go · MongoDB)</summary>
+
+- Story-driven REST APIs inspired by Snapchat  
+- Modular services & middleware for easy extension  
+- JWT auth, pagination, and rate limiting  
+
+🔗 https://github.com/AbdulRahman-04/snap-backend  
+</details>
+
+<details>
+<summary><strong>WebXpertz Freelance Platform</strong> (MERN)</summary>
+
+- Connects clients ↔ freelancers with secure JWT auth  
+- Password reset, role management, real-time notifications  
+- Responsive UI with Tailwind CSS  
+
+🔗 https://github.com/AbdulRahman-04/webxpertz  
+</details>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&theme=tokyonight&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulRahman-04&theme=tokyonight&layout=compact&hide_border=true" width="45%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- ⚛️ Frontend Skills: React.js, Shadcn, Component-Driven Design, API integration
+- React.js & Component-Driven Design with Shadcn  
+- Deepening DevOps: Docker, Kubernetes, CI/CD  
+- Advanced distributed systems & message queues  
 
 ---
 
-## 🎯 Career Goals
-
-- 🧠 Master **Full Stack + DevOps**
-- 📈 Work on scalable & impactful real-world solutions
-- 🚀 Contribute to Open Source & Developer Communities
-
----
-
-## 🤝 Let's Connect
+## 📫 Get in Touch
 
 <p align="center">
+  <a href="mailto:abdulrahman.81869@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/syed-abdul-rahman-643a282b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AbdulRahman-04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:abdulrahman.81869@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🔍 Visitor Insights
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulRahman-04&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" />
-</p>
-
-<!-- Final Line -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=435&lines=lets+Build+Something+Great+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=500&lines=“Let’s+build+something+great+together!”" alt="Footer Typing" />
 </p>

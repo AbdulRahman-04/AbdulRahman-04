@@ -5,7 +5,7 @@
 
 <!-- ⚡ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Backend+Architect+%7C+GoLang+%2B+Node.js;Clean+Architecture+%7C+Scalable+Systems;Code+%7C+Gym+%7C+Mental+Peace+%F0%9F%8C%9F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+GoLang+%2B+Node.js;Clean+Architecture+%7C+Scalable+Systems;Code+%7C+Gym+%7C+Mental+Peace+%F0%9F%8C%9F" />
 </p>
 
 ---
@@ -15,7 +15,6 @@
 🎓 Final-year **Electronics & Communication** student at **DCET Hyderabad**  
 💻 Backend Developer — Go (Gin), Node.js, MongoDB, Redis, JWT, RBAC  
 🧱 Obsessed with clean architecture, performance, and security  
-🏋️‍♂️ Gym grind + mental peace = my dev fuel  
 📬 Contact: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 
 ---
@@ -23,7 +22,7 @@
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,gin,nodejs,express,mongodb,redis,docker,kubernetes,html,css,js,ts,react,tailwind,git,github,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=go,gin,nodejs,express,mongodb,redis,html,css,js,ts,tailwind,git,github,linux,postman,vscode" />
 </p>
 
 ---

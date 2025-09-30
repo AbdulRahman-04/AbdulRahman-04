@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+GoLang+%2B+Node.js;Scalable+Systems+%7C+Clean+Architecture;+%7C+Security+Best+Practices" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+GoLang+%2B+Node.js;Scalable+Systems+%7C+Clean+Architecture;" />
 </p>
 
 ---

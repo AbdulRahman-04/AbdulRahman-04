@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Syed%20Abdul%20Rahman&fontSize=40&fontColor=ffffff&color=0:0a0f1c,100:1f2a47&animation=fadeIn" />
 </p>
 
-<!-- ⚡ Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+GoLang+%2B+Node.js;Clean+Architecture+%7C+Scalable+Systems;Code+%7C+Gym+%7C+Mental+Peace+%F0%9F%8C%9F" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Backend+Develeoper+%7C+GoLang+%2B+Node.js;Scalable+Systems+%7C+Clean+Architecture;Performance+Optimization+%7C+Security+Best+Practices" />
 
 ---
 

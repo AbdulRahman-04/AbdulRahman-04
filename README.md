@@ -1,82 +1,83 @@
-<!-- 🌊 Animated Header -->
+<!-- 🔥 Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:000000&height=200&section=header&text=Syed%20Abdul%20Rahman&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Syed%20Abdul%20Rahman&fontSize=40&fontColor=ffffff&color=0:0a0f1c,100:1f2a47&animation=fadeIn" />
 </p>
 
-<!-- 🧠 Typing Effect -->
+<!-- ⚡ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Backend+Architect+%7C+GoLang+%2B+Node.js;Clean+Code+%7C+Scalable+Systems;No+BS+%7C+Only+Code+%7C+Mental+Peace+%F0%9F%9A%80" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final-year **Electronics & Communication** student at **DCET Hyderabad**
-- 🧠 Backend Developer: Go (Gin), Node.js, MongoDB, Redis, JWT, RBAC
-- 🚀 Building scalable systems with clean architecture & performance-first mindset
-- 🧘‍♂️ Gym + Code + Mental Peace = My grind formula
-- 📫 Reach me: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,gin,nodejs,express,mongodb,redis,docker,html,css,js,ts,react,tailwind,git,github,linux,postman,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Backend+Architect+%7C+GoLang+%2B+Node.js;Clean+Architecture+%7C+Scalable+Systems;Code+%7C+Gym+%7C+Mental+Peace+%F0%9F%8C%9F" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Who Am I?
 
-### 📌 Event Management App
-> 🔒 Role-based access (Admin/User), Email OTP, JWT Auth  
-> ⚙️ Go (Gin) + MongoDB + Redis + RBAC + Clean Architecture  
-> 🧠 Redis caching + Smart TTL fallback
-
-🔗 [View Repo](https://github.com/AbdulRahman-04/event-management-gin)
-
----
-
-### 📌 Snap Backend
-> 📷 Snapchat-style story backend  
-> ⚡ Modular services, JWT, pagination, rate limiting  
-> 🧱 Go + MongoDB + Custom Middleware
-
-🔗 [View Repo](https://github.com/AbdulRahman-04/snap-backend)
+🎓 Final-year **Electronics & Communication** student at **DCET Hyderabad**  
+💻 Backend Developer — Go (Gin), Node.js, MongoDB, Redis, JWT, RBAC  
+🧱 Obsessed with clean architecture, performance, and security  
+🏋️‍♂️ Gym grind + mental peace = my dev fuel  
+📬 Contact: [abdulrahman.81869@gmail.com](mailto:abdulrahman.81869@gmail.com)
 
 ---
 
-### 📌 WebXpertz Freelance Platform
-> 🤝 MERN stack freelance platform  
-> ✅ JWT Auth, Password Reset, Scalable APIs  
-> 🎨 Tailwind UI + Clean UX
-
-🔗 [View Repo](https://github.com/AbdulRahman-04/webxpertz)
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
+  <img src="https://skillicons.dev/icons?i=go,gin,nodejs,express,mongodb,redis,docker,kubernetes,html,css,js,ts,react,tailwind,git,github,linux,postman,vscode" />
+</p>
+
+---
+
+## 🚀 Projects That Speak
+
+<details>
+<summary><strong>📌 Event Management App</strong></summary>
+
+🔐 Role-based access (Admin/User), Email OTP, JWT  
+⚙️ Go (Gin) + MongoDB + Redis + RBAC  
+⚡ Redis caching + TTL fallback + Clean Architecture  
+🔗 [Repo Link](https://github.com/AbdulRahman-04/event-management-gin)
+</details>
+
+<details>
+<summary><strong>📌 Snap Backend</strong></summary>
+
+📷 Snapchat-style story backend  
+🧱 Modular services, JWT, pagination, rate limiting  
+🔗 [Repo Link](https://github.com/AbdulRahman-04/snap-backend)
+</details>
+
+<details>
+<summary><strong>📌 WebXpertz Freelance Platform</strong></summary>
+
+🤝 MERN stack freelance platform  
+✅ JWT Auth, Password Reset, Scalable APIs  
+🎨 Tailwind UI + Clean UX  
+🔗 [Repo Link](https://github.com/AbdulRahman-04/webxpertz)
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRahman-04&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahman-04&theme=radical&layout=compact&hide_border=true" width="45%" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Leveling Up
 
 - ⚛️ React.js + Shadcn + Component-Driven Design  
-- 🐳 Docker + DevOps + CI/CD  
+- 🐳 Docker + Kubernetes + CI/CD  
 - 🧵 Message Queues + Distributed Systems
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Vision & Goals
 
 - 💻 Master Full Stack + DevOps  
 - 📈 Build scalable real-world apps  
@@ -108,7 +109,7 @@
   <img src="https://img.shields.io/github/followers/AbdulRahman-04?label=Followers&style=social" />
 </p>
 
-<!-- Final Line -->
+<!-- ✨ Final Line -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AFFDF&center=true&vCenter=true&width=500&lines=Let’s+Build+Something+Great+Together!" />
 </p>

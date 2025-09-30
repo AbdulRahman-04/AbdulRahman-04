@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,nodejs,express,mongodb,redis,html,css,js,ts,tailwind,git,github,linux,postman,vscode" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Projects That Speak
+## 🚀 Projects 
 
 <details>
 <summary><strong>📌 Event Management App</strong></summary>
@@ -64,14 +64,6 @@
   <br />
   <img src="https://streak-stats.demolab.com?user=AbdulRahman-04&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
----
-
-## 🌱 Currently Leveling Up
-
-- ⚛️ React.js + Shadcn + Component-Driven Design  
-- 🐳 Docker + Kubernetes + CI/CD  
-- 🧵 Message Queues + Distributed Systems
 
 ---
 

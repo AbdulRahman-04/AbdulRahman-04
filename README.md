@@ -28,37 +28,23 @@
 
 ## 🚀 Projects
 
-<details>
-  <summary><strong>📌 Event Management App</strong></summary>
-
-  - 🔐 Role-based access (Admin/User), Email OTP, JWT  
-  - ⚙️ Go (Gin) + MongoDB + Redis + RBAC  
-  - ⚡ Redis caching + TTL fallback + Clean Architecture  
-  - 🔗 [Repo Link](https://github.com/AbdulRahman-04/event-management-gin)
-</details>
-
-<br/>
-
-<details>
-  <summary><strong>📌 Snap Backend</strong></summary>
-
-  - 📷 Snapchat-style story backend  
-  - 🧱 Modular services, JWT, pagination, rate limiting  
-  - 🔗 [Repo Link](https://github.com/AbdulRahman-04/snap-backend)
-</details>
-
-<br/>
-
-<details>
-  <summary><strong>📌 WebXpertz Freelance Platform</strong></summary>
-
-  - 🤝 MERN stack freelance platform  
-  - ✅ JWT Auth, Password Reset, Scalable APIs  
-  - 🎨 Tailwind UI + Clean UX  
-  - 🔗 [Repo Link](https://github.com/AbdulRahman-04/webxpertz)
-</details>
+### 📌 [Event Management App](https://github.com/AbdulRahman-04/event-management-gin)
+- 🔐 Role-based access (Admin/User), Email OTP, JWT  
+- ⚙️ Go (Gin) + MongoDB + Redis + RBAC  
+- ⚡ Redis caching + TTL fallback + Clean Architecture  
 
 ---
+
+### 📌 [Snap Backend](https://github.com/AbdulRahman-04/snap-backend)
+- 📷 Snapchat-style story backend  
+- 🧱 Modular services, JWT, pagination, rate limiting  
+
+---
+
+### 📌 [WebXpertz Freelance Platform](https://github.com/AbdulRahman-04/webxpertz)
+- 🤝 MERN stack freelance platform  
+- ✅ JWT Auth, Password Reset, Scalable APIs  
+- 🎨 Tailwind UI + Clean UX  
 
 ---
 

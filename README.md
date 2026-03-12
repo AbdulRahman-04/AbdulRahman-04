@@ -21,7 +21,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,postgresql,mongodb,gorm,redis,html,css,js,ts,tailwind,git,github,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,postgresql,mongodb,redis,html,css,js,ts,tailwind,git,github,linux,postman,vscode" />
 </p>
 
 ---
